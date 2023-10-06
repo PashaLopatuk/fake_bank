@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "firebase": "^10.4.0",
+    "react-native-stories-view": "^1.0.9",
+    "tailwind-rn": "^4.2.0"
+  }
+}
